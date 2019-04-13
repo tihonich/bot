@@ -1,0 +1,4 @@
+*.log
+TihonichBot.py
+__pycache__/
+settings.py
